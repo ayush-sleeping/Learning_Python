@@ -1,4 +1,4 @@
-#stone paper sissors game
+# Stone, Paper, Sissors Game in Python...
 
 import random
 
@@ -28,8 +28,10 @@ elif randNo == 2:
     comp = "Paper"
 else:
     comp = "Sissor"
+    
 you = input("Choose a sing from Stone(S) , Paper(p) and Sissors(R)")
 a = gamewin(comp , you)
+
 print(f"The computer choosed : {comp}")
 print(f"You choosed : {you}")
 
