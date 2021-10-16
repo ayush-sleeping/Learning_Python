@@ -1,4 +1,4 @@
-# Stone Paper Scissors Game made with Python 
+# Stone Paper Scissors Game made with Python  🐍
 Here I am trying to build a Basic Python Project, By writing simple basic Python code.
 
 ## What is Stone Paper Scissors Game ???
@@ -10,10 +10,11 @@ If you’re unfamiliar, rock paper scissors is a hand game for two or more playe
 - Paper covers stone.
 - Scissors cut paper.
 
-
-## Now that you have the rules down, you can start thinking about how we are going to translate into Python code.
+#
+### Now that you have the rules down, you can start thinking about how we are going to translate into Python code.
 Here I am showing stepwise, How I have done it 
 -  Need to import the module ( import random )
 -  Take User Input
 -  Make the Computer Choose
 -  Determine a Winner 
+<hr>
